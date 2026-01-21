@@ -1,0 +1,9 @@
+x,             Lake Town, Launch Pad, Industry Town, Log Camp, Mine Town, Casco, Lake House, Power Plant
+Lake Town,         -1,         1,           1,         0,         2,        2,      2,          3
+Launch Pad,         1,        -1,           2,         3,         3,        1,      2,          3
+Industry Town,      2,         2,          -1,         2,         2,        2,      2,          2
+Log Camp,           1,         2,           2,        -1,         2,        3,      2,          2
+Mine Town,          2,         3,           2,         2,        -1,        2,      3,          3
+Casco,              2,         1,           2,         3,         2,       -1,      3,          2
+Lake House,         2,         2,           2,         3,         3,        3,     -1,          3
+Power Plant,        3,         3,           2,         2,         3,        2,      3,         -1
